@@ -114,7 +114,7 @@ Asetuksen konfigurointi toimi niin kuin pitikin.
 Asennus ja konfigurointi näytti menevän mallikkaasti ja oli aika siirtyä seuraavaan haasteeseen -> Apache
 
 
-## Asenna weppipalvelin omalle virtuaalipalvelimellesi
+## c) Asenna weppipalvelin omalle virtuaalipalvelimellesi
 Klo 17:50
 Asennusten jälkeen siirryin asentamaan vielä Apachen web-palvelimen uudelle virtuaalipalvelimelle. Asennus alkoi niin kuin aiemminkin komenolla: ```sudo apt-get install apache2```. Asennuksen jälkeen siirryin luomaan testisivua, tarkastin ensin olevani matti käyttäjän kotikansiossa, jonka alle loin uuden alikansion komennolla ```mkdir public_site```, luonnin jälkeen siirryin kansioon. Kansiossa aloin luomaan Micro-työkalulla index.html tiedostoa käyttämällä komentoa ```micro index.html```, mutta huomasinkin, että Micro ei ollutkaan esiasennettuna koneelle, joten asensin sen komennolla: ```sudo apt-get install micro```. Asennuksen jälkeen pääsin luomaan sivua index.html, lainasin pohjaa, jonka opettajani Tero Karvinen on luonut ja julkaissut sivuillaan "Short HTML5 page": </br>
 ![Kuva16](https://user-images.githubusercontent.com/122887740/217295478-70416aee-1ebc-4792-9cb4-76ef5ded5360.png)
@@ -146,10 +146,24 @@ Ongelma oli siis väärinkirjoitetuissa määritteissä, korjasin virheen ja uud
 ![Kuva21](https://user-images.githubusercontent.com/122887740/217301147-85412b4b-6c94-4b3d-b728-511d3ebb9d24.png) </br>
 ![Kuva22](https://user-images.githubusercontent.com/122887740/217301172-19fd41c0-ab4e-4fa1-ab9e-b95cfb5b9940.png) </br>
 
+
+## d) Etsi merkkejä murtautumisyrityksistä
+Klo 18:18
+
+Lopulta oli vuorossa tutkia palvelimelta murtautumisyrityksiä. Navigoin Teron vinkkaamaan lokikansioon tutkimaan mahdollisia murtautumisyrityksiä.
+Kävin tutkimassa ```auth.log``` tiedostoa kansiossa ```/var/log``` ja sain seuraavat tulokset: </br>
+![Kuva23](https://user-images.githubusercontent.com/122887740/217303287-1374f80b-518a-45a3-83ed-5fa4e3bcd55b.png)
+
+
+Lokia tulkittaessa sinne on jo yritetty päästä sisälle, mutta järjestelmä on evännyt pääsyn.
+
+
 ## Lopetus
-Lopetin tehtävien teon klo 12:08. Kyseinen tehtävä avasi lisää Apachen web-palvelimen käyttäytymistä ja sen konfigurointia. Hommiin meni tällä erää n. 2h.
+Lopetin tehtävien teon klo 18:25. Kyseinen tehtävä avasi hyvin virtuaalipalvelimen isännöinnistä, Linuxin palomuuria sekä murtautumisyritysten tarkastelua. SSH oli entuudestaan itselleni tuttu, joten se ei tuonut mitään uutta. Töihin meni tällä erää n. 1,5h.
 
 ## Lähteet:
+Karvinen, Tero, 7.2.2023 - h6 Real Internet(tm) (https://terokarvinen.com/2023/linux-palvelimet-2023-alkukevat/)
+
 Karvinen, Tero, 19.9.2017 - First Steps on a New Virtual Private Server – an Example on DigitalOcean and Ubuntu 16.04 LTS (https://terokarvinen.com/2017/first-steps-on-a-new-virtual-private-server-an-example-on-digitalocean/)
 
 Karvinen, Tero, 12.2.2012 - Short HTML5 page (https://terokarvinen.com/2012/short-html5-page/)
