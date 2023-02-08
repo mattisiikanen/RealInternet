@@ -91,7 +91,9 @@ Syötin peräkanaa seuraavat komennot:
 - ```sudo adduser matti```
 - ```sudo adduser matti sudo```
 - ```sudo adduser matti adm```
-- ```sudo adduser matti admin```
+- ```sudo adduser matti admin```</br>
+
+
 ![Kuva9](https://user-images.githubusercontent.com/122887740/217290188-ccaa8f3f-4daa-4162-bff1-7547cc7e496f.png)</br>
 ![Kuva10](https://user-images.githubusercontent.com/122887740/217290197-f74d1b75-b36e-486f-bf6f-4de85a4ebfec.png)</br>
 ![Kuva11](https://user-images.githubusercontent.com/122887740/217290210-213abbc3-b788-4763-9d1f-7beb71160ce4.png)</br>
