@@ -150,10 +150,12 @@ Käytin vianmääritykseen komentoa: ```sudo apache2ctl configtest```:</br>
 ![Kuva20](https://user-images.githubusercontent.com/122887740/217300694-ef1c495a-8e52-44f5-9371-fad8cc17c9a0.png)
 
 
-Ongelma oli siis väärinkirjoitetuissa määritteissä, korjasin virheen ja uudelleen käynnistin Apachen palvelut. Niinhän se olikin, että pieni näppäilyvirhe määritteissä aiheutti ongelman </br>
+Ongelma oli siis väärinkirjoitetuissa määritteissä, korjasin virheen ja käynnistin Apachen palvelut uudelleen. Niinhän se olikin, että pieni näppäilyvirhe määritteissä aiheutti ongelman </br>
 ![Kuva21](https://user-images.githubusercontent.com/122887740/217301147-85412b4b-6c94-4b3d-b728-511d3ebb9d24.png) </br>
 ![Kuva22](https://user-images.githubusercontent.com/122887740/217301172-19fd41c0-ab4e-4fa1-ab9e-b95cfb5b9940.png) </br>
 
+
+Palvelin on nyt konfiguroitu valmiiksi.
 
 ## d) Etsi merkkejä murtautumisyrityksistä
 Klo 18:18
