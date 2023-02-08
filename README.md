@@ -125,7 +125,7 @@ Asennusten jälkeen siirryin asentamaan vielä Apachen web-palvelimen uudelle vi
 
 
 Sitten oli vuorossa navigoida Apachen kansioon tekemään muokkaukset omaa sivua varten, jotta liikenne ohjautuisi oikeaan osoitteeseen palvelimelle navigoitaessa.
-Navigoin ihan ensimmäiseksi komennolla: ```cd /etc/apache2/sites-available```, tämän jälkeen aktivoin Apachessa käyttäjien kansiot komennolla ```sudo a2enmod userdir``` sekä ```sudo systemctl restart apache2```: </br>
+Navigoin ihan ensimmäiseksi oikeaan osoitteeseen komennolla: ```cd /etc/apache2/sites-available```, tämän jälkeen aktivoin Apachessa käyttäjien kansiot komennoilla ```sudo a2enmod userdir``` sekä ```sudo systemctl restart apache2```: </br>
 ![Kuva17](https://user-images.githubusercontent.com/122887740/217297128-e6bd5143-f940-4c07-bb04-9cc01bd4a0dc.png)
 
 
