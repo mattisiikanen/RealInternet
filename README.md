@@ -10,7 +10,7 @@ Lukuläksynä oli lukea ja tiivistää Tero Karvisen kirjoittama blogi nimeltä 
 - Käytä AINA vahvoja ja hyviä salasanoja
 - Palveluntarjoajia on lukuisia
 - VPS ja Domain nimi liiketoiminta on erittäin kilpailtua
-- Opiskelijoille löytyy ilmainen pilvipalvelimia varten ratkaisu GitHub Education paketista
+- Opiskelijoille löytyy ilmainen ratkaisu pilvipalvelimia varten GitHub Education paketista
 - Muista seuraavat asiat virtuaalipalvelinta luodessa: Palomuuri, Oma järjestelmänvalvojatili, sulje Root tili & päivitä ohjelmistot
 
 
