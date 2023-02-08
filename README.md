@@ -103,7 +103,7 @@ Luonnin jälkeen oli aika siirtyä käyttämään käyttäjää matti, jotta pä
 ![Kuva13](https://user-images.githubusercontent.com/122887740/217290955-45720ea1-099b-4bf8-b107-e0bbe7460642.png)
 
 
-Käyttäjänä matti aloitin rootin sammuttamisen SSH:ssa käyttämällä komentoa ```sudoedit /etc/ssh/sshd_config```, tämä avasi seuraavan näkymän:</br>
+Käyttäjänä matti aloitin rootin sulkemisen SSH:ssa käyttämällä komentoa ```sudoedit /etc/ssh/sshd_config```, tämä avasi seuraavan näkymän:</br>
 ![Kuva14](https://user-images.githubusercontent.com/122887740/217291505-3345307f-c8d7-44e1-9b7e-bf3572ecfdca.png)
 
 Näkymässä tuli vaihtaa kohta: PermitRootLogin yes -> no
