@@ -134,7 +134,8 @@ Aktivoinnin jälkeen siirryin luomaan uutta sivustomääritelmää komennolla ``
 ![Kuva18](https://user-images.githubusercontent.com/122887740/217297750-08c1c73d-64da-41f7-82db-ad6e9191821d.png)
 
 
-Konfiguraatiotiedoston jälkeen oli vuorossa poistaa oletussivumääritys 000-default.conf ja korvata se uudella frontpage.conf - tiedostolla. Homma eteni seuraavasti: - 1: ```sudo a2dissite 000-default.conf```
+Konfiguraatiotiedoston jälkeen oli vuorossa poistaa oletussivumääritys 000-default.conf ja korvata se uudella frontpage.conf - tiedostolla. Homma eteni seuraavasti: </br>
+- 1: ```sudo a2dissite 000-default.conf```
 - 2: ```sudo a2ensite frontpage.conf```
 - 3: ```systemctl restart apache2```.
 
