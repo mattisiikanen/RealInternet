@@ -35,7 +35,7 @@ Tehtävän tarkoituksena oli jatkaa tunnilla käytyyn virtuaalipalvelimiin suunn
 Aloitin tehtävät 7.2.2023 klo 17:02.
 
 ## a) Vuokraa oma virtuaalipalvelin haluamaltasi palveluntarjoajalta
-Olin jo tunnin aikana rekisteröitynyt onnistuneesti Linode.com palveluun ja jätänkin tässä kohtaa rekisteröimisen vaiheet käymättä läpi ja siirryn suoraan virtuaalipalvelimen luontiin ja konfigurointiin. Esivalmisteluna loin ihan ensimmäiseksi oman SSH avaimen virtuaalikoneellani:</br>
+Olin jo tunnin aikana rekisteröitynyt onnistuneesti Linode.com palveluun, joten jätänkin tässä kohtaa rekisteröimisen vaiheet käymättä läpi ja siirryn suoraan virtuaalipalvelimen luontiin ja konfigurointiin. Esivalmisteluna loin ihan ensimmäiseksi oman SSH avaimen virtuaalikoneellani:</br>
 ![Kuva2](https://user-images.githubusercontent.com/122887740/217283182-24ba894f-36eb-4a0a-9856-d787adca18a6.png)</br>
 
 
