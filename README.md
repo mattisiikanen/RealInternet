@@ -67,7 +67,7 @@ Seuraavaksi oli aika siirtyä kokeilemaan yhteyttä uuteen palvelimeen sekä sii
 ![Kuva 4](https://user-images.githubusercontent.com/122887740/217285528-b99bfe45-2cfe-4e59-a35a-96d3f13c628e.png)
 
 
-Oli aika siirtyä konfiguroimaan uutta palvelinta. Aloitin tekemällä päivitykset käyttämällä komentoja ```apt-get update``` sekä ```apt-get upgrade```: </br>
+Oli aika siirtyä konfiguroimaan uutta palvelinta. Aloitin tekemällä päivitykset käyttämällä komentoja ```apt-get update``` sekä ```apt-get upgrade``` (HUOM. olin jo root oikeuksilla, sen takia en käyttänyt ```sudo``` etuliitettä komennossa: </br>
 ![Kuva5](https://user-images.githubusercontent.com/122887740/217286773-9f07c291-4129-45ea-8038-76d1bbccea3f.png)
 
 
