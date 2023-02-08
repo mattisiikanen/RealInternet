@@ -95,7 +95,7 @@ Syötin peräkanaa seuraavat komennot:
 
 
 ![Kuva9](https://user-images.githubusercontent.com/122887740/217290188-ccaa8f3f-4daa-4162-bff1-7547cc7e496f.png)</br>
-![Kuva10](https://user-images.githubusercontent.com/122887740/217290197-f74d1b75-b36e-486f-bf6f-4de85a4ebfec.png)</br>
+![Kuva10](https://user-images.githubusercontent.com/122887740/217506745-4c54f668-2a4b-4eb7-be01-2b6c3ba10d33.png)</br>
 ![Kuva11](https://user-images.githubusercontent.com/122887740/217290210-213abbc3-b788-4763-9d1f-7beb71160ce4.png)</br>
 ![Kuva12](https://user-images.githubusercontent.com/122887740/217290218-53144c15-5a3d-4036-b8a3-164b19f58510.png)</br>
 
