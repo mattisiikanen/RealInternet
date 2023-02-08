@@ -118,7 +118,9 @@ Asetuksen konfigurointi toimi niin kuin pitikin. Asennus ja konfigurointi näytt
 
 ## c) Asenna weppipalvelin omalle virtuaalipalvelimellesi
 Klo 17:50
-Asennusten jälkeen siirryin asentamaan vielä Apachen web-palvelimen uudelle virtuaalipalvelimelle. Asennus alkoi niin kuin aiemminkin komenolla: ```sudo apt-get install apache2```. Asennuksen jälkeen siirryin luomaan testisivua, tarkastin ensin olevani matti käyttäjän kotikansiossa, jonka alle loin uuden alikansion komennolla ```mkdir public_site```, luonnin jälkeen siirryin kansioon. Kansiossa aloin luomaan Micro-työkalulla index.html tiedostoa käyttämällä komentoa ```micro index.html```, mutta huomasinkin, että Micro ei ollutkaan esiasennettuna koneelle, joten asensin sen komennolla: ```sudo apt-get install micro```. Asennuksen jälkeen pääsin luomaan sivua index.html, lainasin pohjaa, jonka opettajani Tero Karvinen on luonut ja julkaissut sivuillaan "Short HTML5 page": </br>
+
+
+Asennusten jälkeen siirryin asentamaan vielä Apachen web-palvelimen uudelle virtuaalipalvelimelle. Asennus alkoi niin kuin aiemminkin, eli komenolla: ```sudo apt-get install apache2```. Asennuksen jälkeen siirryin luomaan testisivua, tarkastin ensin olevani käyttäjän ```matti``` kotikansiossa, jonka alle loin uuden alikansion komennolla ```mkdir public_site```, luonnin jälkeen siirryin kansioon. Kansiossa aloin luomaan Micro-työkalulla index.html tiedostoa käyttämällä komentoa ```micro index.html```, mutta huomasinkin, että Micro ei ollutkaan esiasennettuna koneelle, joten asensin sen komennolla: ```sudo apt-get install micro```. Asennuksen jälkeen pääsin luomaan sivua index.html, lainasin pohjaa, jonka opettajani Tero Karvinen on luonut ja julkaissut sivuillaan "Short HTML5 page": </br>
 ![Kuva16](https://user-images.githubusercontent.com/122887740/217295478-70416aee-1ebc-4792-9cb4-76ef5ded5360.png)
 
 
