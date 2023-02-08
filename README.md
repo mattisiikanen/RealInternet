@@ -165,7 +165,7 @@ Kävin tutkimassa ```auth.log``` tiedostoa kansiossa ```/var/log``` ja sain seur
 ![Kuva23](https://user-images.githubusercontent.com/122887740/217303287-1374f80b-518a-45a3-83ed-5fa4e3bcd55b.png)
 
 
-Lokia tulkittaessa sinne on jo yritetty päästä sisälle, mutta järjestelmä on evännyt pääsyn.
+Lokia tulkittaessa sinne on jo yritetty päästä sisälle, mutta järjestelmä on evännyt pääsyn. Toista lokitiedostoa ``` /var/log/apache2/access.log``` tutkiessa ei tullut tuloksia vastaan lainkaan.
 
 
 ## Lopetus
