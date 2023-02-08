@@ -113,9 +113,7 @@ Tämän jälkeen käynnistin vielä uudelleen SSH palvelun komennolla ```sudo se
 ![Kuva15](https://user-images.githubusercontent.com/122887740/217292584-5ce0fe1d-a57c-4605-8fa7-01b53bc936ff.png)
 
 
-Asetuksen konfigurointi toimi niin kuin pitikin.
-
-Asennus ja konfigurointi näytti menevän mallikkaasti ja oli aika siirtyä seuraavaan haasteeseen -> Apache
+Asetuksen konfigurointi toimi niin kuin pitikin. Asennus ja konfigurointi näytti menevän mallikkaasti ja oli aika siirtyä seuraavaan haasteeseen -> Apache.
 
 
 ## c) Asenna weppipalvelin omalle virtuaalipalvelimellesi
