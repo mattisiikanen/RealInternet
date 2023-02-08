@@ -109,8 +109,10 @@ Käyttäjänä matti aloitin rootin sulkemisen SSH:ssa käyttämällä komentoa 
 Näkymässä tuli vaihtaa kohta: PermitRootLogin yes -> no
 
 
-Tämän jälkeen vielä uudelleen käynnistettiin SSH palvelu komennolla ```sudo service ssh restart``` ja vielä testata root kirjautuminen: </br>
+Tämän jälkeen käynnistin vielä uudelleen SSH palvelun komennolla ```sudo service ssh restart``` ja testasin vielä root kirjautumisen: </br>
 ![Kuva15](https://user-images.githubusercontent.com/122887740/217292584-5ce0fe1d-a57c-4605-8fa7-01b53bc936ff.png)
+
+
 Asetuksen konfigurointi toimi niin kuin pitikin.
 
 Asennus ja konfigurointi näytti menevän mallikkaasti ja oli aika siirtyä seuraavaan haasteeseen -> Apache
