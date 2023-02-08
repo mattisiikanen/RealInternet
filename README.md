@@ -60,7 +60,7 @@ Palvelin onkin jo käynnistymässä: </br>
 Palvelimen luontiin ei mennyt pitkään, eikä sen provisiointikaan kestänyt palvelulla kauan, ehkä vain joitain minuutteja.
 
 
-¤¤ b) Tee alkutoimet omalla virtuaalipalvelimellasi
+## b) Tee alkutoimet omalla virtuaalipalvelimellasi
 Klo 17:14
 
 Seuraavaksi oli aika siirtyä kokeilemaan yhteyttä uuteen palvelimeen sekä siirtyä sen konfigurointiin. Aloitin yhdistämällä palvelimeen käyttämällä komentoa ```ssh root@143.42.18.59```. Tämän jälkeen yhteys pyysi koneeseen linkitetyn SSH-avaimen salasanaa, jotta se voidaan aktvoida: </br>
