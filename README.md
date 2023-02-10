@@ -1,9 +1,5 @@
 # RealInternet
 
-
-# h6_based
-
-
 ## Lukuläksy
 Lukuläksynä oli lukea ja tiivistää Tero Karvisen kirjoittama blogi nimeltä First Steps on a New Virtual Private Server – an Example on DigitalOcean and Ubuntu 16.04 LTS (https://terokarvinen.com/2017/first-steps-on-a-new-virtual-private-server-an-example-on-digitalocean/)
 
